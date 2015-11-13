@@ -2,9 +2,18 @@
   "name": "kraken",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "service.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "^1.5.0",
+    "betfair": "^0.5.1",
+    "express": "^4.13.3",
+    "lodash": "^3.10.1",
+    "mongodb": "^2.0.47",
+    "node-fs": "^0.1.7",
+    "nodefs": "0.0.2"
   },
   "author": "",
   "license": "ISC"
