@@ -14,7 +14,8 @@
     "lodash": "^3.10.1",
     "mongodb": "^2.0.47",
     "node-fs": "^0.1.7",
-    "nodefs": "0.0.2"
+    "nodefs": "0.0.2",
+    "redis": "^2.3.0"
   },
   "author": "",
   "license": "ISC"
